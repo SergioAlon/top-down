@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\PlayerMovement.cs" />
+    <Compile Include="Assets\Shooting.cs" />
     <None Include="Assets\top-down-shooter-1\FX\vout.shader" />
     <None Include="Assets\top-down-shooter-1\FX\fout.shader" />
     <None Include="Assets\Tileset1\Itch release tileset base 01.txt" />
