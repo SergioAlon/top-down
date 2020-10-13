@@ -43,6 +43,7 @@ public class RangedAI : MonoBehaviour
         if (timeBtwShots <= 0)
         {
             Instantiate(projectile, transform.position, Quaternion.identity);
+
             timeBtwShots = startTimeBtwShots;
         }
         else
